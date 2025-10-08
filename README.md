@@ -10,6 +10,8 @@ The system is designed to ensure efficient, accurate, and safe filling operation
 The **Automatic Filling Machine Control System** detects product arrival on a conveyor, positions the product below the correct filling nozzle, fills it for a specific duration, and then releases it automatically.  
 The process is governed by a **selector switch** that determines whether to use the **Yellow Tank**, **Blue Tank**, or **Both Tanks** for filling.
 
+![image alt](https://github.com/Duvindu-Ushan/Automatic-Filling-Machine/blob/43352bd303dd3c0c8fdf089a389e1f414fe609a8/Screenshot%20(3329).png)
+
 ---
 
 ## ⚙️ Initial Conditions
